@@ -36,3 +36,5 @@
 1. No. of digits in a number can be calculated using log. and string conversion (to_string).
 2. vector<vector<int> > is a 2D vector
 3. There are 2 methods of finding power set of a set. 1st one is using recursion, fing the logic of 2nd one.
+  
+  ![](images/filename.Method_2.png)
