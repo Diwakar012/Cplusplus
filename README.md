@@ -38,3 +38,7 @@
 3. There are 2 methods of finding power set of a set. 1st one is using recursion, fing the logic of 2nd one.
   
   ![](images/Method_2.PNG)
+  
+  ## Dynamic Programming Topics 
+  
+  <img src="images/Gitpe.PNG" width="800">
