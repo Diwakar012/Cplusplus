@@ -82,6 +82,8 @@ int main()
 
 ```
 
+Other Vector Initialization methods: https://www.geeksforgeeks.org/2d-vector-in-cpp-with-user-defined-size/
+
 ## Important Functions
 
 - **find_if** : An iterator to the first element in the range for which pred does not return false.
@@ -113,3 +115,4 @@ int main () {
 ```
 
 - **map** : 
+
