@@ -116,3 +116,7 @@ int main () {
 
 - **map** : 
 
+## iterators 
+
+ iterator and its functions : https://www.geeksforgeeks.org/iterators-c-stl/
+ iterator vs. auto: https://andrewshitov.com/2019/11/09/iterators-vs-auto-in-cpp/
