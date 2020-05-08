@@ -114,10 +114,12 @@ int main () {
 }
 ```
 
-- **map** : 
+- **map** : Maps are associative containers that store elements in a mapped fashion. Each element has a key value and a mapped value. No two mapped values can have same key values. These are python dictionaries of c++.
+
+	Documentation: https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/
 
 ## iterators & auto
 
- iterator and its functions : https://www.geeksforgeeks.org/iterators-c-stl/
- iterator vs. auto: https://andrewshitov.com/2019/11/09/iterators-vs-auto-in-cpp/
- auto : https://www.geeksforgeeks.org/type-inference-in-c-auto-and-decltype/
+ - iterator and its functions : https://www.geeksforgeeks.org/iterators-c-stl/
+ - iterator vs. auto: https://andrewshitov.com/2019/11/09/iterators-vs-auto-in-cpp/
+ - auto : https://www.geeksforgeeks.org/type-inference-in-c-auto-and-decltype/
