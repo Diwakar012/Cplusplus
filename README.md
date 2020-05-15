@@ -31,6 +31,10 @@
 - vector::max_size()
 - vector::insert()
 
+## More Vector Functions
+
+https://www.geeksforgeeks.org/modifiers-for-vector-in-cpp-stl/?ref=lbp
+
 ## Important Points
 
 1. No. of digits in a number can be calculated using log. and string conversion (to_string).
